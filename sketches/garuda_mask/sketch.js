@@ -147,7 +147,7 @@ function draw() {
     }
       
     
-         image(img, 0, 0, d*10, d*13) // garuda
+          image(img, 0, 0, d*10, d*13) // garuda
       // image(img3, 0, 80, d*14, d*10) //surgical
       // image(img2, 0, 50, d*20, d*13) // shijiahe
    
